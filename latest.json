@@ -1,7 +1,7 @@
 {
- "version": 1025,
- "bundle": "bundles/ops-1025.json",
- "sha256": "ba710716c14d6ae5f629d1915030fdf864fe8e74e2f6d33d4240c91b8f57eae5",
+ "version": 1026,
+ "bundle": "bundles/ops-1026.json",
+ "sha256": "8d52dfca4bc7b64e12595ceb1b611c03efaf782b3c63e0200c3e91bed8605e23",
  "files": [
   "auth.php",
   "ny_operations.php",
