@@ -1,11 +1,9 @@
 {
- "version": 1037,
- "bundle": "bundles/ops-1037.json",
- "sha256": "5ecfdcc92d7c4eacb8f997d67aee3bbf36a9071fed08859b8d7bc3c7795cf648",
+ "version": 1038,
+ "bundle": "bundles/ops-1038.json",
+ "sha256": "d0444c0abf5b0a8b30646ae1343d5d8891bc4de6d16d76b08d6abfd94651df32",
  "files": [
   "auth.php",
-  "ny_operations.php",
-  "ny_update.php",
-  "v1/index.php"
+  "ny_operations.php"
  ]
 }
